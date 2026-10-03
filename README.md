@@ -38,11 +38,11 @@ D2R Hero Editor - RotW\
 │   ├── Excel\		（官方 txt 数据表，含 item_stat_ranges.txt）
 │   ├── Icons\		（D2Core_btn.png、GitHub_btn.png 等按钮图标）
 │   ├── Quests\		（任务按钮图标）
-│   ├── Sprites\		（物品精灵图）
-│   └── Strings\		（官方 json 数据：items/sets/uniques/skills/ui/GildLocalization.json 等）
-├── Doc\			（历史文档.txt、README.md、更新文档.txt、工作指令.txt、结果反馈.txt）
-├── D2REditorLauncher.exe	（编译版本，可直接运行）
-├── D2REditorLauncher.py	（源码，可重新编译）
+│   ├── Sprites\	（物品精灵图）
+│   └── Strings\	（官方 json 数据：items/sets/uniques/skills/ui/GildLocalization.json 等）
+├── Doc\		（历史文档.txt、README.md、更新文档.txt、工作指令.txt、结果反馈.txt）
+├── D2REditorLauncher.exe（编译版本，可直接运行）
+├── D2REditorLauncher.py（源码，可重新编译）
 └── Reimagined\		（Reimagined Mod 修改器参考版）
 ```
 
