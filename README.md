@@ -69,13 +69,13 @@
 ```
 D2R Hero Editor - RotW/
 ├── Data/
-│   ├── Chars/              角色基础存档（RotW/RotW*.d2s）
-│   ├── Excel/              三版本官方 .txt 数据表（Class/LoD/RotW）
+│   ├── Chars/                 角色基础存档（RotW/RotW*.d2s）
+│   ├── Excel/                 三版本官方 .txt 数据表（Class/LoD/RotW）
 │   ├── Icons/  Quests/  Sprites/     按钮/任务图标/物品精灵图
-│   └── Strings/            官方 JSON 数据（物品/技能/名称/模板等）
-├── D2REditorLauncher.py    启动器源码
-├── D2REditorLauncher.exe   启动器（含内嵌编辑器）
-└── Doc/                    History.txt / README.md / Update.txt
+│   └── Strings/               官方 JSON 数据（物品/技能/名称/模板等）
+├── D2REditorLauncher.py       启动器源码
+├── D2REditorLauncher.exe      启动器（含内嵌编辑器）
+└── Doc/                       History.txt / README.md / Update.txt
 ```
 
 ---
